@@ -1,0 +1,29 @@
+---
+title: "Reporte Técnico Proyecto Bonos de Carbono"
+subtitle: "[Proyecto] - Lote [x]"
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Presentación
+
+El presente reporte tiene como propósito fundamental brindar transparencia y suministrar toda la información técnica relevante que justifica y respalda la inclusión del lote [x] del Proyecto [“Fiordos de Puyuhuapi Acqua”] como parte del Proyecto de Generación de Bonos de Carbono ["Constelación"] de Carbon Real. Esta inclusión se fundamenta en criterios ecológicos y análisis técnicos detallados que respaldan su contribución a los objetivos generales de mitigación del cambio climático. Este documento cuenta con información relevante como la identificación del lote 
+
+Este reporte constituye, por lo tanto, una herramienta esencial para la comprensión y evaluación de los fundamentos técnicos que respaldan la inclusión del mencionado lote en la iniciativa, sirviendo como base sólida para la toma de decisiones informada y la comunicación transparente con todas las partes interesadas.
+
+```{r cars}
+summary(cars)
+```
+
+## Identificación del Lote
+
+El Lote [x] se ubica en la comuna de [nombre de comuna], región de [nombre de región], [Chile]. Cuenta con una superficie total de [x] ha.
+
+[Plano] 
+Figura 1. Ubicación y delimitación del lote [x]. 
+ 
+[Tabla de vértices y centroide]
+Cuadro 1. Ubicación y delimitación del lote [x]
